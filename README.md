@@ -12,3 +12,6 @@ Matplotlib
 Sklearn 
 
 Faiss
+
+#This repository provides an implementation for the GOP-WNMF method as described in the paper:
+Robust Oblique Projection and Weighted NMF for Hyperspectral Unmixing, Yasin Hashemi-Nazari, Azita Tajaddini, Farid Saberi-Movahed, Fernando Alonso-Fernandez, Prayag Tiwari, Pattern Recognition, 2025.
